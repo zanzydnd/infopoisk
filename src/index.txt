@@ -1,0 +1,226 @@
+1.html - https://www.palletsprojects.com/p/flask/
+
+2.html - https://2ch.hk/fl/
+
+3.html - https://devguide.python.org/docquality/#helping-with-documentation
+
+4.html - https://2ch.hk/mobi/
+
+5.html - https://www.palletsprojects.com/p/werkzeug/
+
+6.html - https://2ch.hk/mlp/
+
+7.html - https://2ch.hk/t/
+
+8.html - https://2ch.hk/izd/
+
+9.html - https://2ch.hk/sp/
+
+10.html - https://2ch.hk/e/
+
+11.html - https://2ch.hk/static/rules.html
+
+12.html - https://www.pocoo.org/
+
+13.html - https://2ch.hk/o/https://docs.python.org/3.10/
+
+14.html - https://2ch.hk/bg/
+
+15.html - https://2ch.hk/wh/
+
+16.html - https://2ch.hk/vn/
+
+17.html - https://joelunger.com
+
+18.html - https://www.python.org/
+
+19.html - https://2ch.hk/c/
+
+20.html - https://2ch.hk/hry/
+
+21.html - https://2ch.hk/ruvn/
+
+22.html - https://2ch.hk/sci/
+
+23.html - https://2ch.hk/ja/
+
+24.html - https://www.python.org/doc/versions/
+
+25.html - https://docs.python.org/2.7/
+
+26.html - https://subtlepatterns.com
+
+27.html - https://2ch.hk/ftb/
+
+28.html - https://2ch.hk/v/
+
+29.html - https://www.python.org/psf/donations/
+
+30.html - https://2ch.hk/w/
+
+31.html - https://pypi.python.org/pypi/Pygments
+
+32.html - https://docs.python.org/3.11/
+
+33.html - https://github.com/pygments/pygments/issues
+
+34.html - https://docs.python.org/3.7/
+
+35.html - https://2ch.hk/po/
+
+36.html - https://2ch.hk/ra/
+
+37.html - https://2ch.hk/r/
+
+38.html - https://2ch.hk/a/
+
+39.html - https://docs.python.org/3.12/
+
+40.html - https://devguide.python.org/
+
+41.html - https://2ch.hk/mu/
+
+42.html - https://2ch.hk/d/
+
+43.html - https://wiki.python.org/moin/BeginnersGuide
+
+44.html - https://2ch.hk/un/
+
+45.html - https://2ch.hk/au/
+
+46.html - https://2ch.hk/pa/
+
+47.html - https://wiki.python.org/moin/PythonBooks
+
+48.html - http://lucumr.pocoo.org/
+
+49.html - https://2ch.hk/me/
+
+50.html - https://2ch.hk/de/
+
+51.html - https://2ch.hk/static/m.html
+
+52.html - https://2ch.hk/mg/
+
+53.html - https://2ch.hk/mo/
+
+54.html - https://2ch.hk/wrk/
+
+55.html - https://2ch.hk/hw/
+
+56.html - https://2ch.hk/mus/
+
+57.html - https://2ch.hk/ma/
+
+58.html - https://2ch.hk/wr/
+
+59.html - https://www.sphinx-doc.org/
+
+60.html - https://2ch.hk/zog/
+
+61.html - https://github.com/pygments/pygments
+
+62.html - https://github.com/birkenfeld
+
+63.html - https://2ch.hk/sn/
+
+64.html - https://2ch.hk/soc/
+
+65.html - https://2ch.hk/b/
+
+66.html - https://2ch.hk/gd/
+
+67.html - https://www.palletsprojects.com/p/jinja/
+
+68.html - https://2ch.hk/di/
+
+69.html - https://2ch.hk/fet/
+
+70.html - https://2ch.hk/sex/
+
+71.html - https://2ch.hk/gg/
+
+72.html - https://www.python.org/doc/av/
+
+73.html - https://2ch.hk/fa/
+
+74.html - https://2ch.hk/pr/
+
+75.html - https://2ch.hk/bo/
+
+76.html - https://2ch.hk/tv/
+
+77.html - https://2ch.hk/ga/
+
+78.html - https://2ch.hk/em/
+
+79.html - https://2ch.hk/int/
+
+80.html - https://2ch.hk/ne/
+
+81.html - https://2ch.hk/sf/
+
+82.html - https://www.python.org/dev/peps/
+
+83.html - https://2ch.hk/wm/
+
+84.html - https://2ch.hk/bi/
+
+85.html - https://2ch.hk/fur/
+
+86.html - https://github.com/mitsuhiko
+
+87.html - https://2ch.hk/s/
+
+88.html - https://2ch.hk/rf/
+
+89.html - https://2ch.hk/fiz/
+
+90.html - https://2ch.hk/diy/
+
+91.html - https://docs.python.org/3.8/
+
+92.html - https://2ch.hk/cc/
+
+93.html - https://2ch.hk/vg/
+
+94.html - https://2ch.hk/fd/
+
+95.html - https://2ch.hk/spc/
+
+96.html - https://www.palletsprojects.com/p/click/
+
+97.html - https://2ch.hk/wp/
+
+98.html - https://2ch.hk/p/
+
+99.html - https://2ch.hk/biz/
+
+100.html - https://2ch.hk/mov/
+
+101.html - https://docs.python.org/3.6/
+
+102.html - https://2ch.hk/news/
+
+103.html - https://2ch.hk/hc/
+
+104.html - https://2ch.hk/fg/
+
+105.html - https://2ch.hk/psy/
+
+106.html - https://2ch.hk/hi/
+
+107.html - https://2ch.hk/cg/
+
+108.html - https://2ch.hk/re/
+
+109.html - https://docs.python.org/3.9/
+
+110.html - https://2ch.hk/tes/
+
+111.html - https://2ch.hk/fag/
+
+112.html - https://2ch.hk/static/market.html
+
+113.html - https://docs.python.org/3.5/
+
