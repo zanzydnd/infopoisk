@@ -1,12 +1,9 @@
 import os
 import re
-from collections import defaultdict
-from pprint import pprint
-
 import ru_core_news_md
-from copy import deepcopy
 
-from Levenshtein import distance
+from collections import defaultdict
+
 
 nlp = ru_core_news_md.load()
 words = set()
